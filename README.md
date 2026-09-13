@@ -1146,3 +1146,156 @@ The fact that most modern websites, including Google, Yahoo!, and Amazon, use HT
 <!-- wp:paragraph -->
 <p>Git is a member of&nbsp;<a href="https://git-scm.com/sfc">Software Freedom Conservancy</a></p>
 <!-- /wp:paragraph -->
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="Git"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://git-scm.com/images/dark-mode.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>--fast-version-control</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/about">About</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="active" href="https://git-scm.com/learn">Learn</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a class="active" href="https://git-scm.com/book">Book</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/cheat-sheet">Cheat Sheet</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/videos">Videos</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/doc/ext">External Links</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/tools">Tools</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/docs">Reference</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="install-link" href="https://git-scm.com/install/linux">Install</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/community">Community</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>This book is available in&nbsp;<a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP">English</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Full translation available in<a href="https://git-scm.com/book/az/v2/Server%e2%80%99d%c9%99-Git-Smart-HTTP">azərbaycan dili</a>,<a href="https://git-scm.com/book/bg/v2/GitHub-%d0%9e%d0%b1%d0%be%d0%b1%d1%89%d0%b5%d0%bd%d0%b8%d0%b5">български език</a>,<a href="https://git-scm.com/book/de/v2/Git-auf-dem-Server-Smart-HTTP">Deutsch</a>,<a href="https://git-scm.com/book/es/v2/Git-en-el-Servidor-HTTP-Inteligente">Español</a>,<a href="https://git-scm.com/book/fa/v2/%da%af%db%8c%d8%aa-%d8%b1%d9%88%db%8c-%d8%b3%d8%b1%d9%88%d8%b1-Git-on-the-server-HTTP-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af-Smart-HTTP">فارسی</a>,<a href="https://git-scm.com/book/fr/v2/Git-sur-le-serveur-HTTP-intelligent">Français</a>,<a href="https://git-scm.com/book/gr/v2/%ce%a4%ce%bf-Git-%cf%83%cf%84%ce%bf%ce%bd-%ce%b4%ce%b9%ce%b1%ce%ba%ce%bf%ce%bc%ce%b9%cf%83%cf%84%ce%ae-%ce%88%ce%be%cf%85%cf%80%ce%bd%ce%bf-HTTP">Ελληνικά</a>,<a href="https://git-scm.com/book/ja/v2/Git%e3%82%b5%e3%83%bc%e3%83%90%e3%83%bc-Smart-HTTP">日本語</a>,<a href="https://git-scm.com/book/ko/v2/Git-%ec%84%9c%eb%b2%84-%ec%8a%a4%eb%a7%88%ed%8a%b8-HTTP">한국어</a>,<a href="https://git-scm.com/book/nl/v2/Git-op-de-server-Slimme-HTTP">Nederlands</a>,<a href="https://git-scm.com/book/pt-br/v2/Git-no-Servidor-Smart-HTTP">Português (Brasil)</a>,<a href="https://git-scm.com/book/ru/v2/Git-%d0%bd%d0%b0-%d1%81%d0%b5%d1%80%d0%b2%d0%b5%d1%80%d0%b5-%d0%a3%d0%bc%d0%bd%d1%8b%d0%b9-HTTP">Русский</a>,<a href="https://git-scm.com/book/sl/v2/Git-na-stre%c5%beniku-Pametni-HTTP">Slovenščina</a>,<a href="https://git-scm.com/book/sr/v2/%d0%93%d0%b8%d1%82-%d0%bd%d0%b0-%d1%81%d0%b5%d1%80%d0%b2%d0%b5%d1%80%d1%83-%d0%9f%d0%b0%d0%bc%d0%b5%d1%82%d0%b0%d0%bd-HTTP">Српски</a>,<a href="https://git-scm.com/book/sv/v2/Git-p%c3%a5-servern-Smart-HTTP">Svenska</a>,<a href="https://git-scm.com/book/tl/v2/Git-sa-Server-Smart-HTTP">Tagalog</a>,<a href="https://git-scm.com/book/tr/v2/Bir-Sunucuda-Git-Kurma-Ak%c4%b1ll%c4%b1-HTTP">Türkçe</a>.<a href="https://git-scm.com/book/uk/v2/Git-%d0%bd%d0%b0-%d1%81%d0%b5%d1%80%d0%b2%d0%b5%d1%80%d1%96-%d0%a0%d0%be%d0%b7%d1%83%d0%bc%d0%bd%d0%b8%d0%b9-HTTP">Українська</a>,<a href="https://git-scm.com/book/zh/v2/%e6%9c%8d%e5%8a%a1%e5%99%a8%e4%b8%8a%e7%9a%84-Git-Smart-HTTP">简体中文</a>,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Partial translations available in<a href="https://git-scm.com/book/cs/v2/Git-na-serveru-Chytr%c3%bd-HTTP">Čeština</a>,<a href="https://git-scm.com/book/mk/v2/Git-%d0%bd%d0%b0-%d0%a1%d0%b5%d1%80%d0%b2%d0%b5%d1%80-Smart-HTTP">Македонски</a>,<a href="https://git-scm.com/book/pl/v2/Git-na-serwerze-Smart-HTTP">Polski</a>,<a href="https://git-scm.com/book/uz/v2/Git-%d1%81%d0%b5%d1%80%d0%b2%d0%b5%d1%80%d0%b4%d0%b0-Smart-HTTP">Ўзбекча</a>,<a href="https://git-scm.com/book/zh-tw/v2/%e4%bc%ba%e6%9c%8d%e5%99%a8%e4%b8%8a%e7%9a%84-Git-Smart-HTTP">繁體中文</a>,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Translations started for<a href="https://git-scm.com/book/be/v2/Git-on-the-Server-Smart-HTTP">Беларуская</a>,<a href="https://git-scm.com/book/id/v2/Git-di-Server-Smart-HTTP">Indonesian</a>,<a href="https://git-scm.com/book/it/v2/Git-on-the-Server-Smart-HTTP">Italiano</a>,<a href="https://git-scm.com/book/ms/v2/Git-on-the-Server-Smart-HTTP">Bahasa Melayu</a>,<a href="https://git-scm.com/book/pt-pt/v2/Git-no-Servidor-Smart-HTTP">Português (Portugal)</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>The source of this book is&nbsp;<a href="https://github.com/progit/progit2">hosted on GitHub.</a><br />Patches, suggestions and comments are welcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a class="dropdown-trigger" href="https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP#">Chapters ▾</a>&nbsp;2nd Edition</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">4.6 Git on the Server - Smart HTTP</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="_smart_http_2">Smart HTTP</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We now have authenticated access through SSH and unauthenticated access through&nbsp;<code>git://</code>, but there is also a protocol that can do both at the same time. Setting up Smart HTTP is basically just enabling a CGI script that is provided with Git called&nbsp;<code>git-http-backend</code>&nbsp;on the server. This CGI will read the path and headers sent by a&nbsp;<code>git fetch</code>&nbsp;or&nbsp;<code>git push</code>&nbsp;to an HTTP URL and determine if the client can communicate over HTTP (which is true for any client since version 1.6.6). If the CGI sees that the client is smart, it will communicate smartly with it; otherwise it will fall back to the dumb behavior (so it is backward compatible for reads with older clients).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Let’s walk through a very basic setup. We’ll set this up with Apache as the CGI server. If you don’t have Apache setup, you can do so on a Linux box with something like this:<code class="language-console">$ sudo apt-get install apache2 apache2-utils $ a2enmod cgi alias env</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This also enables the&nbsp;<code>mod_cgi</code>,&nbsp;<code>mod_alias</code>, and&nbsp;<code>mod_env</code>&nbsp;modules, which are all needed for this to work properly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You’ll also need to set the Unix user group of the&nbsp;<code>/srv/git</code>&nbsp;directories to&nbsp;<code>www-data</code>&nbsp;so your web server can read- and write-access the repositories, because the Apache instance running the CGI script will (by default) be running as that user:<code class="language-console">$ chgrp -R www-data /srv/git</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Next we need to add some things to the Apache configuration to run the&nbsp;<code>git-http-backend</code>&nbsp;as the handler for anything coming into the&nbsp;<code>/git</code>&nbsp;path of your web server.<code class="language-console">SetEnv GIT_PROJECT_ROOT /srv/git SetEnv GIT_HTTP_EXPORT_ALL ScriptAlias /git/ /usr/lib/git-core/git-http-backend/</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you leave out&nbsp;<code>GIT_HTTP_EXPORT_ALL</code>&nbsp;environment variable, then Git will only serve to unauthenticated clients the repositories with the&nbsp;<code>git-daemon-export-ok</code>&nbsp;file in them, just like the Git daemon did.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally you’ll want to tell Apache to allow requests to&nbsp;<code>git-http-backend</code>&nbsp;and make writes be authenticated somehow, possibly with an Auth block like this:<code class="language-console">&lt;Files "git-http-backend"&gt; AuthType Basic AuthName "Git Access" AuthUserFile /srv/git/.htpasswd Require expr !(%{QUERY_STRING} -strmatch '*service=git-receive-pack*' || %{REQUEST_URI} =~ m#/git-receive-pack$#) Require valid-user &lt;/Files&gt;</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That will require you to create a&nbsp;<code>.htpasswd</code>&nbsp;file containing the passwords of all the valid users. Here is an example of adding a “schacon” user to the file:<code class="language-console">$ htpasswd -c /srv/git/.htpasswd schacon</code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are tons of ways to have Apache authenticate users, you’ll have to choose and implement one of them. This is just the simplest example we could come up with. You’ll also almost certainly want to set this up over SSL so all this data is encrypted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We don’t want to go too far down the rabbit hole of Apache configuration specifics, since you could well be using a different server or have different authentication needs. The idea is that Git comes with a CGI called&nbsp;<code>git-http-backend</code>&nbsp;that when invoked will do all the negotiation to send and receive data over HTTP. It does not implement any authentication itself, but that can easily be controlled at the layer of the web server that invokes it. You can do this with nearly any CGI-capable web server, so go with the one that you know best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Note</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more information on configuring authentication in Apache, check out the Apache docs here:&nbsp;<a href="https://httpd.apache.org/docs/current/howto/auth.html" class="bare" target="_blank" rel="noreferrer noopener">https://httpd.apache.org/docs/current/howto/auth.html</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Git-Daemon">prev</a>&nbsp;|&nbsp;<a href="https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb">next</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://git-scm.com/site">About this site</a><br />Patches, suggestions, and comments are welcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Git is a member of&nbsp;<a href="https://git-scm.com/sfc">Software Freedom Conservancy</a></p>
+<!-- /wp:paragraph -->
