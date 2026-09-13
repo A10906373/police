@@ -864,3 +864,285 @@ The fact that most modern websites, including Google, Yahoo!, and Amazon, use HT
 [[Category:URI schemes]]
 [[Category:Transport Layer Security]]
 [[Category:Internet properties established in 1994]]
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="Git"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://git-scm.com/images/dark-mode.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>--local-branching-on-the-cheap</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/about">About</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="active" href="https://git-scm.com/learn">Learn</a><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/book">Book</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/cheat-sheet">Cheat Sheet</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/videos">Videos</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="active" href="https://git-scm.com/doc/ext">External Links</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/tools">Tools</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/docs">Reference</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="install-link" href="https://git-scm.com/install/linux">Install</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://git-scm.com/community">Community</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>The entire&nbsp;<strong><a href="https://git-scm.com/book">Pro Git book</a></strong>&nbsp;written by Scott Chacon and Ben Straub is available to&nbsp;<a href="https://git-scm.com/book">read online for free</a>. Dead tree versions are available on&nbsp;<a href="https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1430218339&amp;linkCode=as2&amp;tag=git-sfconservancy-20">Amazon.com</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">External Links</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tutorials</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Short &amp; Sweet</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"content-list"} -->
+<ul class="wp-block-list content-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/docs/gittutorial">Official Git Tutorial</a>The official gittutorial man page is a good place to start.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://gitimmersion.com/">Git Immersion</a>A guided tour that walks through the fundamentals of Git.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"content-list"} -->
+<ul class="wp-block-list content-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/docs/giteveryday">Everyday Git</a>Learn the basics with 20 of the most common commands.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://backlog.com/git-tutorial/">Backlog Git Tutorial</a>It includes an introduction for complete beginners as well as hands-on tutorials for intermediate learners. ( <a href="https://backlog.com/git-tutorial/ja/">Japanese</a> / <a href="https://backlog.com/git-tutorial/kr/">Korean</a> / <a href="https://backlog.com/git-tutorial/cn/">Simplified Chinese</a> / <a href="https://backlog.com/git-tutorial/tw/">Traditional Chinese</a> / <a href="https://backlog.com/git-tutorial/vn/">Vietnamese</a> )</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Diving Deeper</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"content-list"} -->
+<ul class="wp-block-list content-list"><!-- wp:list-item -->
+<li><a href="https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index">Ry’s Git Tutorial</a>A hands-on introduction to the entire Git porcelain.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://eagain.net/articles/git-for-computer-scientists/">Git for Computer Scientists</a>A quick introduction to Git internals for people who aren't scared by words like Directed Acyclic Graph.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/">Git Magic</a>An alternative book with the source <a href="https://github.com/blynn/gitmagic/tree/master">online</a>.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.python4data.science/en/latest/productive/git/index.html">Git for Data Science</a>Best practices and typical Git workflows for data science.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"content-list"} -->
+<ul class="wp-block-list content-list"><!-- wp:list-item -->
+<li><a href="https://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html">Git for Designers</a>No knowledge of version control? No problem.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://github.com/sensorflo/git-draw/wiki">git-draw</a>git-draw is a small tool that draws nearly the full content of a tiny git repository as a graph. It helps people with an engineering background learning Git's internals.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://docs.github.com/">GitHub Docs</a>Guides on a variety of Git and GitHub related topics.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Books</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://git-scm.com/book"><img src="https://git-scm.com/images/progit2.png" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.manning.com/mcquaid/?a_aid=MikeMcQuaid&amp;a_bid=5688bbf4"><img src="https://www.manning.com/mcquaid/mcquaid_cover150.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://cbx33.github.io/gitt/"><img src="https://git-scm.com/images/books/git-in-the-trenches@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://gitforteams.com/"><img src="https://learning.oreilly.com/library/cover/9781491911204/250w" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919/"><img src="https://learning.oreilly.com/covers/urn:orm:book:9781098133900/400w/" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"books-list"} -->
+<ul class="wp-block-list books-list"><!-- wp:list-item -->
+<li><a href="https://git-scm.com/book">Pro Git</a>By Scott Chacon and Ben Straub</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.manning.com/mcquaid/?a_aid=MikeMcQuaid&amp;a_bid=5688bbf4">Git in Practice</a>By Mike McQuaid</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://cbx33.github.io/gitt/">Git in the Trenches</a>By Peter Savage</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://gitforteams.com/">Git for Teams</a>By Emma Jane Hogbin Westby</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919/">Learning Git: A Hands-On and Visual Guide to the Basics of Git</a>By Anna Skoulikari</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.amazon.com/Version-Control-Git-collaborative-development/dp/0596520123"><img src="https://git-scm.com/images/books/version-control-with-git@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git"><img src="https://git-scm.com/images/books/pragmatic-guide-to-git@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git"><img src="https://git-scm.com/images/books/pragmatic-version-control@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://github.com/pluralsight/git-internals-pdf/releases/download/v2.0/peepcode-git.pdf"><img src="https://git-scm.com/images/books/git-internals@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.manning.com/books/learn-git-in-a-month-of-lunches"><img src="https://www.manning.com/umali/umali_cover150.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.apress.com/book/9781484253120"><img src="https://media.springernature.com/w153/springer-static/cover/book/9781484253137.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://adamchainz.gumroad.com/l/bygdx"><img src="https://git-scm.com/images/books/boost-your-git-dx@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"books-list"} -->
+<ul class="wp-block-list books-list"><!-- wp:list-item -->
+<li><a href="https://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387">Version Control with Git, 2nd ed.</a>By Jon Loeliger &amp; Matthew McCullough</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git">Pragmatic Guide to Git</a>By Travis Swicegood</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git">Pragmatic Version Control Using Git</a>By Travis Swicegood</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://github.com/pluralsight/git-internals-pdf/releases/download/v2.0/peepcode-git.pdf">Git Internals Peepcode PDF</a>By Scott Chacon</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.manning.com/books/learn-git-in-a-month-of-lunches">Learn Git in a Month of Lunches</a>By Rick Umali</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.apress.com/book/9781484253120">Beginning Git and GitHub</a>By Mariot Tsitoara</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://adamchainz.gumroad.com/l/bygdx">Boost Your Git DX</a>By Adam Johnson</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Videos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.youtube.com/watch?v=4XpnKHJAok8"><img src="https://git-scm.com/images/videos/linus@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"video-thumbnails"} -->
+<ul class="wp-block-list video-thumbnails"><!-- wp:list-item -->
+<li><a href="https://www.youtube.com/watch?v=4XpnKHJAok8">Tech Talk: Linus Torvalds on Git</a>Linus Torvalds visits Google to share his thoughts on Git, the SCM system he created.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.youtube.com/watch?v=ZDR433b0HJY"><img src="https://git-scm.com/images/videos/introgit@2x.jpg" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"video-thumbnails"} -->
+<ul class="wp-block-list video-thumbnails"><!-- wp:list-item -->
+<li><a href="https://www.youtube.com/watch?v=ZDR433b0HJY">Introduction to Git: Scott Chacon</a>This talk introduces the Git Version Control System by looking at what Git is doing when you run the commands you need to do basic version control with it.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Courses</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"course-list"} -->
+<ul class="wp-block-list course-list"><!-- wp:list-item -->
+<li><a href="https://cusy.io/en/our-training-courses/versioned-and-reproducible-storage-of-code-and-data">Versioned and reproducible storage of code and data</a>In this course you will learn how to create reproducible research results and write source code efficiently together.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"className":"course-list"} -->
+<ul class="wp-block-list course-list"><!-- wp:list-item -->
+<li><a href="https://cusy.io/en/our-training-courses/versioned-and-reproducible-storage-of-code-and-data.html">Versioned and reproducible storage of code and data</a>Three-day course on Git in data science</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://git-scm.com/site">About this site</a><br />Patches, suggestions, and comments are welcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Git is a member of&nbsp;<a href="https://git-scm.com/sfc">Software Freedom Conservancy</a></p>
+<!-- /wp:paragraph -->
