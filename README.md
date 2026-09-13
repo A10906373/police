@@ -1299,3 +1299,460 @@ The fact that most modern websites, including Google, Yahoo!, and Amazon, use HT
 <!-- wp:paragraph -->
 <p>Git is a member of&nbsp;<a href="https://git-scm.com/sfc">Software Freedom Conservancy</a></p>
 <!-- /wp:paragraph -->
+<!-- wp:list {"ordered":true,"className":"book-toc"} -->
+<ol class="wp-block-list book-toc"><!-- wp:list-item -->
+<li>1. <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">Getting Started</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>1.1 <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control">About Version Control</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.2 <a href="https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git">A Short History of Git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.3 <a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">What is Git?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.4 <a href="https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line">The Command Line</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.5 <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">Installing Git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.6 <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">First-Time Git Setup</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.7 <a href="https://git-scm.com/book/en/v2/Getting-Started-Getting-Help">Getting Help</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1.8 <a href="https://git-scm.com/book/en/v2/Getting-Started-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2. <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository">Git Basics</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>2.1 <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository">Getting a Git Repository</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.2 <a href="https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository">Recording Changes to the Repository</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.3 <a href="https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History">Viewing the Commit History</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.4 <a href="https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things">Undoing Things</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.5 <a href="https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes">Working with Remotes</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.6 <a href="https://git-scm.com/book/en/v2/Git-Basics-Tagging">Tagging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.7 <a href="https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases">Git Aliases</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>2.8 <a href="https://git-scm.com/book/en/v2/Git-Basics-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3. <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell">Git Branching</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>3.1 <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell">Branches in a Nutshell</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.2 <a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Basic Branching and Merging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.3 <a href="https://git-scm.com/book/en/v2/Git-Branching-Branch-Management">Branch Management</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.4 <a href="https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows">Branching Workflows</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.5 <a href="https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches">Remote Branches</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.6 <a href="https://git-scm.com/book/en/v2/Git-Branching-Rebasing">Rebasing</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>3.7 <a href="https://git-scm.com/book/en/v2/Git-Branching-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4. <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols">Git on the Server</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>4.1 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols">The Protocols</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.2 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server">Getting Git on a Server</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.3 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key">Generating Your SSH Public Key</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.4 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server">Setting Up the Server</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.5 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Git-Daemon">Git Daemon</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.6 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Smart-HTTP">Smart HTTP</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.7 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb">GitWeb</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.8 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-GitLab">GitLab</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.9 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Third-Party-Hosted-Options">Third Party Hosted Options</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>4.10 <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>5. <a href="https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows">Distributed Git</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>5.1 <a href="https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows">Distributed Workflows</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>5.2 <a href="https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project">Contributing to a Project</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>5.3 <a href="https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project">Maintaining a Project</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>5.4 <a href="https://git-scm.com/book/en/v2/Distributed-Git-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6. <a href="https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration">GitHub</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>6.1 <a href="https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration">Account Setup and Configuration</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6.2 <a href="https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project">Contributing to a Project</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6.3 <a href="https://git-scm.com/book/en/v2/GitHub-Maintaining-a-Project">Maintaining a Project</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6.4 <a href="https://git-scm.com/book/en/v2/GitHub-Managing-an-organization">Managing an organization</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6.5 <a href="https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub">Scripting GitHub</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>6.6 <a href="https://git-scm.com/book/en/v2/GitHub-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7. <a href="https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection">Git Tools</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>7.1 <a href="https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection">Revision Selection</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.2 <a href="https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging">Interactive Staging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.3 <a href="https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning">Stashing and Cleaning</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.4 <a href="https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work">Signing Your Work</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.5 <a href="https://git-scm.com/book/en/v2/Git-Tools-Searching">Searching</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.6 <a href="https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History">Rewriting History</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.7 <a href="https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified">Reset Demystified</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.8 <a href="https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging">Advanced Merging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.9 <a href="https://git-scm.com/book/en/v2/Git-Tools-Rerere">Rerere</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.10 <a href="https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git">Debugging with Git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.11 <a href="https://git-scm.com/book/en/v2/Git-Tools-Submodules">Submodules</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.12 <a href="https://git-scm.com/book/en/v2/Git-Tools-Bundling">Bundling</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.13 <a href="https://git-scm.com/book/en/v2/Git-Tools-Replace">Replace</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.14 <a href="https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage">Credential Storage</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>7.15 <a href="https://git-scm.com/book/en/v2/Git-Tools-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>8. <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration">Customizing Git</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>8.1 <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration">Git Configuration</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>8.2 <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes">Git Attributes</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>8.3 <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks">Git Hooks</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>8.4 <a href="https://git-scm.com/book/en/v2/Customizing-Git-An-Example-Git-Enforced-Policy">An Example Git-Enforced Policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>8.5 <a href="https://git-scm.com/book/en/v2/Customizing-Git-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>9. <a href="https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client">Git and Other Systems</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>9.1 <a href="https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client">Git as a Client</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>9.2 <a href="https://git-scm.com/book/en/v2/Git-and-Other-Systems-Migrating-to-Git">Migrating to Git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>9.3 <a href="https://git-scm.com/book/en/v2/Git-and-Other-Systems-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10. <a href="https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain">Git Internals</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>10.1 <a href="https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain">Plumbing and Porcelain</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.2 <a href="https://git-scm.com/book/en/v2/Git-Internals-Git-Objects">Git Objects</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.3 <a href="https://git-scm.com/book/en/v2/Git-Internals-Git-References">Git References</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.4 <a href="https://git-scm.com/book/en/v2/Git-Internals-Packfiles">Packfiles</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.5 <a href="https://git-scm.com/book/en/v2/Git-Internals-The-Refspec">The Refspec</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.6 <a href="https://git-scm.com/book/en/v2/Git-Internals-Transfer-Protocols">Transfer Protocols</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.7 <a href="https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery">Maintenance and Data Recovery</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.8 <a href="https://git-scm.com/book/en/v2/Git-Internals-Environment-Variables">Environment Variables</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>10.9 <a href="https://git-scm.com/book/en/v2/Git-Internals-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1. <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Graphical-Interfaces">Appendix A: Git in Other Environments</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>A1.1 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Graphical-Interfaces">Graphical Interfaces</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.2 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Visual-Studio">Git in Visual Studio</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.3 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Visual-Studio-Code">Git in Visual Studio Code</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.4 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-IntelliJ-/-PyCharm-/-WebStorm-/-PhpStorm-/-RubyMine">Git in IntelliJ / PyCharm / WebStorm / PhpStorm / RubyMine</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.5 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Sublime-Text">Git in Sublime Text</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.6 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Bash">Git in Bash</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.7 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-Zsh">Git in Zsh</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.8 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Git-in-PowerShell">Git in PowerShell</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A1.9 <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Summary">Summary</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A2. <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Command-line-Git">Appendix B: Embedding Git in your Applications</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>A2.1 <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Command-line-Git">Command-line Git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A2.2 <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Libgit2">Libgit2</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A2.3 <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-JGit">JGit</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A2.4 <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-go-git">go-git</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A2.5 <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Dulwich">Dulwich</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3. <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config">Appendix C: Git Commands</a><!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>A3.1 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config">Setup and Config</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.2 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Getting-and-Creating-Projects">Getting and Creating Projects</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.3 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Basic-Snapshotting">Basic Snapshotting</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.4 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Branching-and-Merging">Branching and Merging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.5 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Sharing-and-Updating-Projects">Sharing and Updating Projects</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.6 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Inspection-and-Comparison">Inspection and Comparison</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.7 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Debugging">Debugging</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.8 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Patching">Patching</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.9 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Email">Email</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.10 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-External-Systems">External Systems</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.11 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Administration">Administration</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>A3.12 <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Plumbing-Commands">Plumbing Commands</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
