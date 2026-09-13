@@ -374,3 +374,350 @@ GitHub generates the list of changed files using two-dot diffs for pushes and th
 In some situations, GitHub Actions applies limits that change how filtered workflows run:
 
 * If a push contains more than 1,000 commits, the work
+
+* 
+<!doctype html>
+<html lang="th" style="width: 100%; height: 100%;">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="theme-color" content="#3894ee">
+    <title>แผนที่สาขา Police - Longdo Map</title>
+    <link rel="icon" href="https://map.longdo.com/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://map.longdo.com/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+    <link rel="canonical" href="https://map.longdo.com/branches/Police" />
+    <link rel="alternate" hreflang="th" href="https://map.longdo.com/branches/Police" />
+    <link rel="alternate" hreflang="en" href="https://map.longdo.com/branches/Police?lang=en" />
+</head>
+<body style="width: 100%; height: 100%; margin: 0; padding: 0;">
+<iframe
+    src="[//map.longdo.com/map/?tag=Police&title=&lang=th&lock=false](https://map.longdo.com/map/?tag=Police&title=&lang=th&lock=false)"
+    style="border: none; width: 100%; height: 100%;">
+</iframe>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"a48df47193f34a06b2ad4f94fbb402e7","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,height=device-height,target-densitydpi=device-dpi,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><link rel="icon" href="[/main/favicon_map.ico?version=3.25.0](https://map.longdo.com/main/favicon_map.ico?version=3.25.0)"><link rel="alternate" type="application/rss+xml" title="Longdo Map Blog » Feed" href="https://map-blog.longdo.com/feed/"> 
+    <title>แผนที่ Longdo Map แผนที่ประเทศไทยออนไลน์ ใช้ง่าย ละเอียด
+    </title>S/N:25BFA58S08277
+    <meta name="description" content="แผนที่ประเทศไทยออนไลน์ อัพเดตล่าสุด ทุกๆ 15 นาที, ค้นหาสถานที่ด้วยชื่อ, แสดงสาขาของร้านค้าด้วย tag icon, ปักหมุดสถานที่ใหม่ด้วยตนเอง, พิมพ์แผนที่, นำภาพแผนที่ไปใช้ด้วย snippet, Map API Free สำหรับองค์กร" ><meta name="image" content="https://mmmap15.longdo.com/mmmap/snippet/?lat=13.9&long=101&zoom=5&width=1200&height=630&HD=1" ><meta name="keyword" content="Longdo, map, online, Bangkok, Thailand, collaborative" ><meta property="og:url" content="https://https://map.longdo.com/main/?lat=17.492394999999803&lon=101.72164099999964&search=tag%3A%20Electricity" ><meta property="og:image" content="https://mmmap15.longdo.com/mmmap/snippet/?lat=13.9&long=101&zoom=5&width=1200&height=630&HD=1" > <style>/* thai *
+```/
+      @font-face {
+        font-family: 'Sarabun';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/main/fonts/sarabun/v8/DtVmJx26TKEr37c9YL5rik8s6zDX.woff2')
+          format('woff2');
+        unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+      }
+      /* vietnamese */
+      @font-face {
+        font-family: 'Sarabun';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/main/fonts/sarabun/v8/DtVmJx26TKEr37c9YL5rilQs6zDX.woff2')
+          format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169,
+          U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+      }
+      /* latin-ext */
+      @font-face {
+        font-family: 'Sarabun';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/main/fonts/sarabun/v8/DtVmJx26TKEr37c9YL5rilUs6zDX.woff2')
+          format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+          U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      /* latin */
+      @font-face {
+        font-family: 'Sarabun';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/main/fonts/sarabun/v8/DtVmJx26TKEr37c9YL5rilss6w.woff2')
+          format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+          U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      /* thai */
+      @font-face {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Prompt'), local('Prompt-Regular'),
+          url('/main/fonts/prompt/v4/-W__XJnvUD7dzB2KdNodVkI.woff2')
+            format('woff2');
+        unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+      }
+      /* vietnamese */
+      @font-face {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Prompt'), local('Prompt-Regular'),
+          url('/main/fonts/prompt/v4/-W__XJnvUD7dzB2Kb9odVkI.woff2')
+            format('woff2');
+        unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169,
+          U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+      }
+      /* latin-ext */
+      @font-face {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Prompt'), local('Prompt-Regular'),
+          url('/main/fonts/prompt/v4/-W__XJnvUD7dzB2KbtodVkI.woff2')
+            format('woff2');
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+          U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      /* latin */
+      @font-face {
+        font-family: 'Prompt';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: local('Prompt'), local('Prompt-Regular'),
+          url('/main/fonts/prompt/v4/-W__XJnvUD7dzB2KYNod.woff2')
+            format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6,
+          U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+
+      @font-face {
+        font-family: 'Digital';
+        src: url('/main/fonts/digital/digital.woff2')
+          format('woff2');
+      }
+
+      /* fallback */
+      @font-face {
+        font-family: 'Material Icons';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/main/fonts/materialicons/v118/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2')
+          format('woff2');
+      }
+      /* fallback */
+      /* @font-face {
+        font-family: 'Material Icons Outlined';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/main/fonts/materialiconsoutlined/v66/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2') format('woff2');
+      } */
+      /* fallback */
+      @font-face {
+        font-family: 'Material Icons Round';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/main/fonts/materialiconsround/v91/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmP.woff2')
+          format('woff2');
+      }
+      /* fallback */
+      /* @font-face {
+        font-family: 'Material Icons Sharp';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/main/fonts/materialiconssharp/v66/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvmvR.woff2') format('woff2');
+      } */
+      /* fallback */
+      /* @font-face {
+        font-family: 'Material Icons Two Tone';
+        font-style: normal;
+        font-weight: 400;
+        src: url('/main/fonts/materialiconstwotone/v64/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0.woff2') format('woff2');
+      } */
+
+      .material-icons {
+        font-family: 'Material Icons';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* .material-icons-outlined {
+        font-family: 'Material Icons Outlined';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+      } */
+
+      .material-icons-round {
+        font-family: 'Material Icons Round';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      /* .material-icons-sharp {
+        font-family: 'Material Icons Sharp';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+      } */
+
+      /* .material-icons-two-tone {
+        font-family: 'Material Icons Two Tone';
+        font-weight: normal;
+        font-style: normal;
+        font-size: 24px;
+        line-height: 1;
+        letter-spacing: normal;
+        text-transform: none;
+        display: inline-block;
+        white-space: nowrap;
+        word-wrap: normal;
+        direction: ltr;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+      } */
+
+      #splash-screen-bg {
+        background-image: url('/main/img/bg-repeat.svg?version=3.25.0');
+        background-repeat: repeat;
+        background-size: 128px 128px;
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        opacity: 0.25;
+        transition: opacity 0.3s ease 0s;
+        animation: loading-slide 20s linear infinite;
+      }
+
+      @keyframes loading-slide {
+        0% {
+          background-position: top right;
+        }
+        100% {
+          background-position: bottom left;
+        }
+      }</style><script language="JavaScript" src="[//www.longdo.com/api/](https://www.longdo.com/api/)"></script><script>function isIosNativeApp() {
+        const identifyIos = 'LongdoJsInterface';
+        const ua =
+          window.navigator.userAgent ||
+          window.navigator.vendor ||
+          window.opera ||
+          '';
+        return (
+          ua.indexOf('Mac') > -1 &&
+          ua.indexOf(identifyIos) > -1 &&
+          ua.indexOf('Version') < 0
+        );
+      }
+
+      var onCanEnableGA = function () {
+        (function (i, s, o, g, r, a, m) {
+          i['GoogleTagManagerObject'] = r;
+          (i[r] =
+            i[r] ||
+            function () {
+              (i[r].q = i[r].q || []).push(arguments);
+            }),
+            (i[r].l = 1 * new Date());
+          (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+          a.async = 1;
+          a.src = g;
+          m.parentNode.insertBefore(a, m);
+        })(
+          window,
+          document,
+          'script',
+          'https://www.googletagmanager.com/gtag/js?id=G-DS493EFB8W',
+          'gtag'
+        );
+        window.isEnableGA = true;
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        window.gtag = gtag;
+        gtag('js', new Date());
+        gtag('config', 'G-DS493EFB8W');
+      };
+
+      if (!isIosNativeApp()) {
+        onCanEnableGA();
+      }</script><link href="[/main/css/chunk-11424b06.60d9eccb.css](https://map.longdo.com/main/css/chunk-11424b06.60d9eccb.css)" rel="prefetch"><link href="[/main/css/chunk-1a69b54a.ec0479ad.css](https://map.longdo.com/main/css/chunk-1a69b54a.ec0479ad.css)" rel="prefetch"><link href="[/main/css/chunk-24922d53.dbcdba63.css](https://map.longdo.com/main/css/chunk-24922d53.dbcdba63.css)" rel="prefetch"><link href="[/main/css/chunk-279742fb.3563511b.css](https://map.longdo.com/main/css/chunk-279742fb.3563511b.css)" rel="prefetch"><link href="[/main/css/chunk-2f82dc35.585c14bc.css](https://map.longdo.com/main/css/chunk-2f82dc35.585c14bc.css)" rel="prefetch"><link href="[/main/css/chunk-3165e45f.02b207d5.css](https://map.longdo.com/main/css/chunk-3165e45f.02b207d5.css)" rel="prefetch"><link href="[/main/css/chunk-36a94ca4.023bc43c.css](https://map.longdo.com/main/css/chunk-36a94ca4.023bc43c.css)" rel="prefetch"><link href="[/main/css/chunk-3b0a9a6d.762dbfaa.css](https://map.longdo.com/main/css/chunk-3b0a9a6d.762dbfaa.css)" rel="prefetch"><link href="[/main/css/chunk-466b7c58.574316d1.css](https://map.longdo.com/main/css/chunk-466b7c58.574316d1.css)" rel="prefetch"><link href="[/main/css/chunk-5cd14dca.98c1da2d.css](https://map.longdo.com/main/css/chunk-5cd14dca.98c1da2d.css)" rel="prefetch"><link href="[/main/css/chunk-638b63c0.3b93812e.css](https://map.longdo.com/main/css/chunk-638b63c0.3b93812e.css)" rel="prefetch"><link href="[/main/css/chunk-672f7d2f.94f37355.css](https://map.longdo.com/main/css/chunk-672f7d2f.94f37355.css)" rel="prefetch"><link href="[/main/css/chunk-70395c38.a89326ae.css](https://map.longdo.com/main/css/chunk-70395c38.a89326ae.css)" rel="prefetch"><link href="[/main/css/chunk-7574d8b6.c698cfe0.css](https://map.longdo.com/main/css/chunk-7574d8b6.c698cfe0.css)" rel="prefetch"><link href="[/main/css/chunk-797cda5a.7dbee3f2.css](https://map.longdo.com/main/css/chunk-797cda5a.7dbee3f2.css)" rel="prefetch"><link href="[/main/css/chunk-7c6b07e6.92ef70ee.css](https://map.longdo.com/main/css/chunk-7c6b07e6.92ef70ee.css)" rel="prefetch"><link href="[/main/css/chunk-7d1acc04.c521c66d.css](https://map.longdo.com/main/css/chunk-7d1acc04.c521c66d.css)" rel="prefetch"><link href="[/main/css/chunk-9d006a1e.d67dc6c2.css](https://map.longdo.com/main/css/chunk-9d006a1e.d67dc6c2.css)" rel="prefetch"><link href="[/main/css/chunk-bad4cabe.f2dca8eb.css](https://map.longdo.com/main/css/chunk-bad4cabe.f2dca8eb.css)" rel="prefetch"><link href="[/main/css/chunk-bce41f02.60839821.css](https://map.longdo.com/main/css/chunk-bce41f02.60839821.css)" rel="prefetch"><link href="[/main/css/chunk-d01fc562.4705bbaa.css](https://map.longdo.com/main/css/chunk-d01fc562.4705bbaa.css)" rel="prefetch"><link href="[/main/css/chunk-e85a0e92.14e9e741.css](https://map.longdo.com/main/css/chunk-e85a0e92.14e9e741.css)" rel="prefetch"><link href="[/main/js/chunk-11424b06.b258fffe.js](https://map.longdo.com/main/js/chunk-11424b06.b258fffe.js)" rel="prefetch"><link href="[/main/js/chunk-1a69b54a.d0b95aba.js](https://map.longdo.com/main/js/chunk-1a69b54a.d0b95aba.js)" rel="prefetch"><link href="[/main/js/chunk-24922d53.8aa22157.js](https://map.longdo.com/main/js/chunk-24922d53.8aa22157.js)" rel="prefetch"><link href="[/main/js/chunk-279742fb.bf97ec33.js](https://map.longdo.com/main/js/chunk-279742fb.bf97ec33.js)" rel="prefetch"><link href="[/main/js/chunk-2f82dc35.8ab46663.js](https://map.longdo.com/main/js/chunk-2f82dc35.8ab46663.js)" rel="prefetch"><link href="[/main/js/chunk-3165e45f.1e073021.js](https://map.longdo.com/main/js/chunk-3165e45f.1e073021.js)" rel="prefetch"><link href="[/main/js/chunk-36a94ca4.070d7f50.js](https://map.longdo.com/main/js/chunk-36a94ca4.070d7f50.js)" rel="prefetch"><link href="[/main/js/chunk-3b0a9a6d.e4cad548.js](https://map.longdo.com/main/js/chunk-3b0a9a6d.e4cad548.js)" rel="prefetch"><link href="[/main/js/chunk-466b7c58.c2fc3bd8.js](https://map.longdo.com/main/js/chunk-466b7c58.c2fc3bd8.js)" rel="prefetch"><link href="[/main/js/chunk-5cd14dca.e3e2f83c.js](https://map.longdo.com/main/js/chunk-5cd14dca.e3e2f83c.js)" rel="prefetch"><link href="[/main/js/chunk-638b63c0.c56240ef.js](https://map.longdo.com/main/js/chunk-638b63c0.c56240ef.js)" rel="prefetch"><link href="[/main/js/chunk-672f7d2f.27ef5b6e.js](https://map.longdo.com/main/js/chunk-672f7d2f.27ef5b6e.js)" rel="prefetch"><link href="[/main/js/chunk-70395c38.2640bb0a.js](https://map.longdo.com/main/js/chunk-70395c38.2640bb0a.js)" rel="prefetch"><link href="[/main/js/chunk-7574d8b6.f6c5e923.js](https://map.longdo.com/main/js/chunk-7574d8b6.f6c5e923.js)" rel="prefetch"><link href="[/main/js/chunk-797cda5a.ad25f667.js](https://map.longdo.com/main/js/chunk-797cda5a.ad25f667.js)" rel="prefetch"><link href="[/main/js/chunk-7c6b07e6.f6578e5f.js](https://map.longdo.com/main/js/chunk-7c6b07e6.f6578e5f.js)" rel="prefetch"><link href="[/main/js/chunk-7d1acc04.77014f3b.js](https://map.longdo.com/main/js/chunk-7d1acc04.77014f3b.js)" rel="prefetch"><link href="[/main/js/chunk-7f14c07a.d0500143.js](https://map.longdo.com/main/js/chunk-7f14c07a.d0500143.js)" rel="prefetch"><link href="[/main/js/chunk-9d006a1e.b692e1c0.js](https://map.longdo.com/main/js/chunk-9d006a1e.b692e1c0.js)" rel="prefetch"><link href="[/main/js/chunk-bad4cabe.e3fa7ee8.js](https://map.longdo.com/main/js/chunk-bad4cabe.e3fa7ee8.js)" rel="prefetch"><link href="[/main/js/chunk-bce41f02.a86ed8c6.js](https://map.longdo.com/main/js/chunk-bce41f02.a86ed8c6.js)" rel="prefetch"><link href="[/main/js/chunk-d01fc562.b38b4d11.js](https://map.longdo.com/main/js/chunk-d01fc562.b38b4d11.js)" rel="prefetch"><link href="[/main/js/chunk-e85a0e92.432ebc41.js](https://map.longdo.com/main/js/chunk-e85a0e92.432ebc41.js)" rel="prefetch"><link href="[/main/css/chunk-vendors.8656d02f.css](https://map.longdo.com/main/css/chunk-vendors.8656d02f.css)" rel="preload" as="style"><link href="[/main/css/index.5993a450.css](https://map.longdo.com/main/css/index.5993a450.css)" rel="preload" as="style"><link href="[/main/js/chunk-vendors.f0b7eac9.js](https://map.longdo.com/main/js/chunk-vendors.f0b7eac9.js)" rel="preload" as="script"><link href="[/main/js/index.acc142e7.js](https://map.longdo.com/main/js/index.acc142e7.js)" rel="preload" as="script"><link href="[/main/css/chunk-vendors.8656d02f.css](https://map.longdo.com/main/css/chunk-vendors.8656d02f.css)" rel="stylesheet"><link href="[/main/css/index.5993a450.css](https://map.longdo.com/main/css/index.5993a450.css)" rel="stylesheet"><link rel="icon" type="image/png" sizes="32x32" href="[/main/img/icons/map/favicon-32x32.png?v=3.25.0](https://map.longdo.com/main/img/icons/map/favicon-32x32.png?v=3.25.0)"><link rel="icon" type="image/png" sizes="16x16" href="[/main/img/icons/map/favicon-16x16.png?v=3.25.0](https://map.longdo.com/main/img/icons/map/favicon-16x16.png?v=3.25.0)"><link rel="manifest" href="[/main/manifest.json?v=3.25.0](https://map.longdo.com/main/manifest.json?v=3.25.0)"><meta name="theme-color" content="#0074e5"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#0074e5"><meta name="apple-mobile-web-app-title" content="Longdo Map"><link rel="apple-touch-icon" href="[/main/img/icons/map/apple-touch-icon-152x152.png?v=3.25.0](https://map.longdo.com/main/img/icons/map/apple-touch-icon-152x152.png?v=3.25.0)"><link rel="mask-icon" href="[/main/img/icons/map/safari-pinned-tab.svg?v=3.25.0](https://map.longdo.com/main/img/icons/map/safari-pinned-tab.svg?v=3.25.0)" color="#0074e5"><meta name="msapplication-TileImage" content="/main/img/icons/map/msapplication-icon-144x144.png?v=3.25.0"><meta name="msapplication-TileColor" content="#0074e5"></head><body style="padding: 0px;
+      margin: 0px;
+      height: 100%;
+      transition: background-color 0.3s ease 0s;
+      background-color: #0074e5;"><img id="splash-screen-logo" src="[//map.longdo.com/themes/longdo/logo-nopadding2.png?version=3.25.0](https://map.longdo.com/themes/longdo/logo-nopadding2.png?version=3.25.0)" srcset="[//map.longdo.com/themes/longdo/logo-nopadding.png?version=3.25.0](https://map.longdo.com/themes/longdo/logo-nopadding.png?version=3.25.0),[ //map.longdo.com/themes/longdo/logo-nopadding2.png?version=3.25.0 2x](https://map.longdo.com/themes/longdo/logo-nopadding2.png?version=3.25.0)" style="z-index: 1;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        transition: opacity 0.15s ease 0s, top 0.15s ease 0s;
+        height: 40px;"><div id="splash-screen-bg"></div><img id="loading-initial" src="[/main/img/loading.gif?version=3.25.0](https://map.longdo.com/main/img/loading.gif?version=3.25.0)" style="display: none;
+        z-index: 1;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);"><div id="app"></div><script>function checkHideSplashScreen() {
+        const params = new URLSearchParams(window.location.search);
+        const platform = params.get('platform');
+        const isHideSplashScreen = ['android', 'ios', 'desktop'].includes(
+          platform
+        );
+
+        if (isHideSplashScreen) {
+          document.querySelector('#loading-initial').style.display = 'unset';
+          document.querySelector('body').style.backgroundColor = '#0074e5';
+          document.querySelector('#splash-screen-logo').style.opacity = '0';
+          document.querySelector('#splash-screen-logo').style.zIndex = '-99';
+          document.querySelector('#splash-screen-bg').style.opacity = '0';
+          document.querySelector('#splash-screen-bg').style.zIndex = '-99';
+          document.querySelector('#splash-screen-bg').style.animation = 'unset';
+        }
+      }
+      checkHideSplashScreen();</script><script src="[/main/js/chunk-vendors.f0b7eac9.js](https://map.longdo.com/main/js/chunk-vendors.f0b7eac9.js)"></script><script src="[/main/js/index.acc142e7.js](https://map.longdo.com/main/js/index.acc142e7.js)"></script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"a48df47193f34a06b2ad4f94fbb402e7","spa":2}' crossorigin="anonymous"></script>
+</body></html>
